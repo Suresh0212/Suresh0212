@@ -1,8 +1,10 @@
+I am Artificial Intelligence and Data Science Student from India. Highly analytical individual with strong communication and programming skills. Have a good knowledge on Programming and very much interested in MAchine Learning and Artificial Intelligence. 
+
 - 👋 Hi, I’m @Suresh0212
-- 👀 I’m interested in AI & ML
+- 👀 I’m Exploring myself and life
 - 🌱 I’m currently learning AI & DS
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me abhinavsuresh1963@gmail.com
+- my rule for programming is "If it works then don't touch it"
 
 <!---
 Suresh0212/Suresh0212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
